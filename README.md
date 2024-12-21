@@ -23,11 +23,3 @@
 - **Responsive Design**: Ensures the website works across all devices (desktop, tablet, mobile).
 
 ---
-
-## Installation
-
-To view or edit this project on your local system:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/supfly.git
